@@ -2,7 +2,7 @@ const projects = [
   {
     title: "Liver Patient Analysis",
     image: "/assets/images/liver-analysis.webp",
-    desc: "It uses machine learning to analyze liver patient data and predict the likelihood of liver disease. By examining clinical and demographic features, the model identifies patterns associated with liver disorders and supports early detection and informed medical decision-making.",
+    desc: "A machine learning project that analyzes liver patient data and predicts the possibility of liver disease based on patient health information.",
     tags: ["Python", "ML","Jupyter","flask"],
     link: "https://github.com/praba200/liver-patient-analysis-ml.git",
   },
@@ -10,14 +10,14 @@ const projects = [
     title: "Task Management App",
     image: "/assets/images/project-task-app.jpg",
     desc: "Designed and built a cross-platform task management app with real-time sync, drag-and-drop Kanban boards, and team collaboration features using React Native and Firebase.",
-    tags: ["React Native", "Firebase"],
+    tags: ["React","HTML", "Javascript", "CSS", ],
     link: "#",
   },
   {
     title: "Analytics Dashboard",
     image: "/assets/images/project-dashboard.jpg",
     desc: "Built an interactive data analytics dashboard for a SaaS product, featuring live charts, filterable KPI cards, and CSV export — reducing manual reporting time by 60%.",
-    tags: ["Data Viz", "Node.js"],
+    tags: ["React","MongoDB", "Node.js"],
     link: "#",
   },
 ];
